@@ -50,7 +50,6 @@ python main.py
 * Modular Programming
 * Object-Oriented Design
 
-### Author
 
 **Tanvir Hasan**
 CSE Student | Python | SQL | Data Analytics
