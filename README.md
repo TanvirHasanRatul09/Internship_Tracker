@@ -1,18 +1,3 @@
-# Internship Tracker Project
-
-A console-based Internship Tracking System developed using **Python, Object-Oriented Programming (OOP), SQL Server (SSMS), and pyodbc**.
-
-## Features
-
-* Student Management (Add, View, Update, Delete)
-* Internship Application Tracking
-* Interview Management
-* Search Applications by Status
-* Generate Application Reports
-* SQL Server Database Integration
-
-## Technologies Used
-
 * Python
 * OOP
 * SQL Server (SSMS)
@@ -49,7 +34,3 @@ python main.py
 * Exception Handling
 * Modular Programming
 * Object-Oriented Design
-
-
-**Tanvir Hasan**
-CSE Student | Python | SQL | Data Analytics
